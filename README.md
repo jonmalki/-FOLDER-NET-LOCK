@@ -13,7 +13,7 @@ Folder Net Lock is a lightweight Python application that allows you to lock and 
 ## Installation
 
 1. Clone or download the source code from the [GitHub repository](https://github.com/username/repo).
-2. Install the required Python packages by running `pip install -r requirements.txt` in the terminal.
+2. Install the required Python packages by running `pip install  thing lol` in the terminal.
 3. Create a folder named `f0ld3r` in the same directory as the application script. This will be the folder that you can lock and unlock.
 4. Run the application by running `python app.py` in the terminal.
 
